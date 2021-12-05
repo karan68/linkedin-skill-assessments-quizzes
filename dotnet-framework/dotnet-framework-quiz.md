@@ -455,3 +455,19 @@
 - [ ] Namespace is the logical naming decided at design time by the developer. Scope for a particular type is defined at run time using an assembly.
 - [ ] A namespace has logical units that are physically grouped together. An assembly does not have any classification.
 - [ ] A namespace has logical units that are physically grouped together for assemblies. Assembly classes are available in your program and will be logically grouped.
+
+//important for design pattern questions on .net
+
+    Abstract Factory
+    Creates an instance of several families of classes
+    Builder
+    Separates object construction from its representation
+    Factory Method
+    Creates an instance of several derived classes
+    Object Pool
+    Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
+    Prototype
+    A fully initialized instance to be copied or cloned
+    Singleton
+    A class of which only a single instance can exist
+
